@@ -1,1 +1,2 @@
-# demo_1
+Hello friend
+Welcome to java
